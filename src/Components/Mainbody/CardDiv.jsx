@@ -18,7 +18,7 @@ const divHandeler=(cardData)=>{
   return (
    <>
   
-     <div onClick={()=>divHandeler(promiseData)}  className="bg-white p-10">
+     <div onClick={()=>divHandeler(promiseData)}  className="bg-white p-10 cursor-pointer hover:bg-gray-50">
             <div className="flex justify-between gap-4  flex-col md:flex-row ">
               <h1 className="font-bold">{promiseData.title}</h1>
               <div className="bg-green-400 flex items-center rounded-full px-1">

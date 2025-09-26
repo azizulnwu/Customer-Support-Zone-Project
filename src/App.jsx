@@ -30,7 +30,7 @@ const [resolvedTask,setresolvedTask]=useState([])
       <Banner progress={progress} completeValue={completeValue}/>
 
       {/* body section */}
-      <Suspense fallback={"Loading......."}>
+      <Suspense fallback={<h1 className="font-bold text-center p-10">Loading.......</h1>}>
         <Mainbody progress={progress} setProgress={setProgress} newPromise={newPromise}
         taskStatus={taskStatus}
         setTaskStatus={setTaskStatus}
