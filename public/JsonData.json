@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Website Redesign",
+    "description": "Revamp the landing page and improve mobile responsiveness.",
+    "customer": "Acme Corp",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-20T10:30:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Mobile App Bug Fix",
+    "description": "Fix crash on login for Android 12 devices.",
+    "customer": "Tech Solutions",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-18T14:15:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Payment Gateway",
+    "description": "Add Stripe support for international customers.",
+    "customer": "Global Mart",
+    "priority": "High",
+    "status": "Pending Review",
+    "createdAt": "2025-09-12T09:00:00Z"
+  },
+  {
+    "id": 4,
+    "title": "SEO Optimization",
+    "description": "Improve meta tags and page speed performance.",
+    "customer": "Green Foods",
+    "priority": "Low",
+    "status": "Completed",
+    "createdAt": "2025-09-10T08:45:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Customer Dashboard",
+    "description": "Build analytics dashboard for premium users.",
+    "customer": "NextGen Analytics",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-22T11:20:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Email Automation",
+    "description": "Set up onboarding email workflow for new signups.",
+    "customer": "Startup Hub",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-19T07:30:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Server Migration",
+    "description": "Move infrastructure to AWS for better scalability.",
+    "customer": "FinTech Pro",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-15T16:00:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Inventory Tracking System",
+    "description": "Develop real-time stock monitoring for warehouses.",
+    "customer": "RetailX",
+    "priority": "Medium",
+    "status": "Pending Review",
+    "createdAt": "2025-09-13T12:10:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Chatbot Support",
+    "description": "Integrate AI-powered chatbot for customer service.",
+    "customer": "HealthCare Plus",
+    "priority": "Low",
+    "status": "Completed",
+    "createdAt": "2025-09-09T15:40:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Data Backup Setup",
+    "description": "Implement automated daily backup system.",
+    "customer": "EduTech",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-23T18:25:00Z"
+  }
+]
