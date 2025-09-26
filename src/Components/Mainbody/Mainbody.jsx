@@ -17,7 +17,7 @@ const Mainbody = ({ newPromise,setProgress,progress,taskStatus,setTaskStatus,com
             <h1 className="font-bold text-lg mb-2">Customer Tickets</h1>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-1 ">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-3 ">
             {promiseValuestate.map((promiseData) => (
               <CardDiv progress={progress} setProgress={setProgress} key={promiseData.id} promiseData={promiseData} 
               setTaskStatus={setTaskStatus}
