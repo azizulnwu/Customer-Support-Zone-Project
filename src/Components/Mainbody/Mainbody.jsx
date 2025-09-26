@@ -12,7 +12,7 @@ const Mainbody = ({ newPromise,setProgress,progress,taskStatus,setTaskStatus,com
         className="bg-[#43ff64d9
 ] flex justify-between  md:max-w-[80%] mx-auto mb-5 flex-col md:flex-row "
       >
-        <div className="p-10">
+        <div className="pt-10">
           <div>
             <h1 className="font-bold text-lg mb-2">Customer Tickets</h1>
           </div>
